@@ -1,0 +1,28 @@
+
+@font-face{
+    font-family: "PeaceSans";
+    src: url("assets/fonts/PeaceSans.ttf");
+}
+@font-face{
+    font-family: "QSDBold";
+    src: url("https://www.dropbox.com/s/lenbeyeo5e2bo9o/ElliotSans-Bold.ttf");
+}
+@font-face{
+    font-family: "QSDLight";
+    src: url("https://www.dropbox.com/s/yrzgl16paynsd15/ElliotSans-Light.ttf");
+}
+
+#postal-info{
+    font-family: 'QSDLight';
+    color: white;
+    margin: auto;
+  }
+
+  .icon-social{
+    height: 20px;
+    height: 20px;;
+  }
+
+  #social-media{
+    margin: auto;
+  }
